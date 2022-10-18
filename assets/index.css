@@ -1,0 +1,90 @@
+body {
+    background-color: rgba(0, 0, 0, 0.788);
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: unset;
+}
+.books-img  li {
+    display:contents;
+    margin: 0;
+    list-style: none;
+}
+.getpage {
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.title {
+    color: #ff5e00;
+    font-size: 2rem;
+    font-weight: 400;
+}
+.label {
+    color: grey;
+    font-size: 1.4rem;
+}
+.desc {
+    color: white;
+}
+.read-more {
+    color: white;
+}
+.toolrr.price {
+    float: right;
+    color: white;
+    font-weight: 600;
+}
+.fa-heart {
+    position: relative;
+    left: 66%;
+    color: white;
+}
+.add.btnsolid.bg_b.toolrr {
+    float: right;
+    border: 1px solid #1962b0;
+    background: #1962b0;
+    color: #fff;
+    font-size: 13px;
+    padding: 3px 8px 1px;
+    text-transform: uppercase;
+}
+.package-row {
+    background: #3e3a3a;
+    padding: 10px 10px;
+}
+.formattitle.sml {
+    color: white;
+    font-weight: 700;
+}
+span.frmtinfo {
+    color: #9b9292;
+}
+.release {
+    color: #ff6a00;
+    padding: 5px;
+    border-bottom: 1px solid;
+}
+.fa-heart:hover {
+    position: relative;
+    left: 66%;
+    color: red;
+}
+a {
+    text-decoration: none !important;
+}
+li.song-list {
+    color: white;
+    padding: 5px;
+    border-bottom: 1px solid grey;
+}
+.view-full {
+    color: #ff8100;
+}
+.arrow-text {
+    color: #ff8100;
+}
+.col-bg-color {
+    background: #000000a3;
+}
